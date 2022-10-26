@@ -107,7 +107,7 @@ var displayWeather = function (weather) {
     // Create Wind Speed element
     var windSpeed = document.createElement('p');
     windSpeed.id = "wind-speed";
-    windSpeed.innerHTML = "<strong>Wind Speed:</strong> " + weather.current.wind_speed.toFixed(1) + " MPH";
+    windSpeed.innerHTML = "<strong>Wind:</strong> " + weather.current.wind_speed.toFixed(1) + " MPH";
     currentWeatherEl.appendChild(windSpeed);
 
 
