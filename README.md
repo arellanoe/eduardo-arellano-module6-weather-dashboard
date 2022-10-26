@@ -1,6 +1,6 @@
 # Module-6-Challenge-Eduardo-Arellano
 Module 6 weekly assignment
-# Homework-4
+
 
 Weather Dashboard App
 
@@ -24,10 +24,10 @@ THEN I am again presented with current and future conditions for that city
 
 ## Repository link
 
-https://github.com/arellanoe/Module-4-Challenge-Eduardo-Arellano
+https://github.com/arellanoe/eduardo-arellano-module6-weather-dashboard
 
 
 ## Web Site Link
 
-https://arellanoe.github.io/Module-4-Challenge-Eduardo-Arellano/
+https://arellanoe.github.io/eduardo-arellano-module6-weather-dashboard/
 
